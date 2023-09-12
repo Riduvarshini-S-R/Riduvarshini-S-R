@@ -1,6 +1,11 @@
 # <p align=center> Hello, I'm Riduvarshini S R 👋</p>
 
-[![GitHub followers](https://img.shields.io/github/followers/Riduvarshini-S-R?style=social)](https://github.com/Riduvarshini-S-R)
+<p align="center">[![GitHub followers](https://img.shields.io/github/followers/Riduvarshini-S-R?style=social)](https://github.com/Riduvarshini-S-R)</p>
+
+<p align = center>
+<a href="https://www.linkedin.com/in/riduvarshinisr/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/avinash-m-571642119/" alt="LinkedIn Badge"></a>
+<a href="https://www.hackerrank.com/riduvarshini_s_r"><img src="https://img.shields.io/badge/-HackerRank-00ea64?style=flat-square&amp;labelColor=081100&amp;logo=HackerRank&amp;link=https://www.hackerrank.com/riduvarshini_s_r" alt="HackerRank Profile"></a>
+</p>
 
 I'm a passionate towards coding and software development from Chennai. I love working on frontend development and exploring new technologies. Here are a few things I'm currently interested in:
 
@@ -23,10 +28,5 @@ Here are some of the languages and tools I've worked with:
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Riduvarshini-S-R&show_icons=true&theme=dark)
-
-## 🌐 Connect with Me
-
-- [GitHub](https://github.com/Riduvarshini-S-R)
-- [LinkedIn](https://www.linkedin.com/in/riduvarshinisr/)
 
 Feel free to reach out and connect with me. Let's collaborate on some cool projects together! 😃
