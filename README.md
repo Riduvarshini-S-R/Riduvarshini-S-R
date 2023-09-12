@@ -1,6 +1,6 @@
 # <p align=center> Hello, I'm Riduvarshini S R 👋</p>
 
-<p align="center">[GitHub followers](https://img.shields.io/github/followers/Riduvarshini-S-R?style=social)](https://github.com/Riduvarshini-S-R)</p>
+<p align="center"><a href="[(https://img.shields.io/github/followers/Riduvarshini-S-R?style=social)](https://github.com/Riduvarshini-S-R)"></a></p>
 
 <p align = center>
 <a href="https://www.linkedin.com/in/riduvarshinisr/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/avinash-m-571642119/" alt="LinkedIn Badge"></a>
