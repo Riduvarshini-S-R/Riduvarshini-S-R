@@ -26,5 +26,6 @@ Here are some of the languages and tools I've worked with:
 ## &#x1f4c8; My GitHub Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Riduvarshini-S-R&layout=compact&hide=jupyter%20notebook,JavaScript&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Riduvarshini-S-R&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 Feel free to reach out and connect with me. Let's collaborate on some cool projects together! 😃
