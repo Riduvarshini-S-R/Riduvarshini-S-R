@@ -15,75 +15,65 @@ I'm a passionate towards coding and software development from Chennai. I love wo
 Here are some of the languages and tools I've worked with:
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
 
-  <!-- Java -->
-  <div>
-    <a href="https://www.java.com/en/">
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-    </a>
-  </div>
+<span>
+  <a href="https://www.java.com/en/">
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  </a>
+</span>
 
-  <!-- Python -->
-  <div>
-    <a href="https://www.python.org/">
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-    </a>
-  </div>
+<span>
+  <a href="https://www.python.org/">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  </a>
+</span>
 
-  <!-- C -->
-  <div>
-    <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
-      <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-    </a>
-  </div>
+<span>
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
+    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  </a>
+</span>
 
-  <!-- HTML5 -->
-  <div>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-    </a>
-  </div>
+<span>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  </a>
+</span>
 
-  <!-- CSS3 -->
-  <div>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-    </a>
-  </div>
+<span>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  </a>
+</span>
 
-  <!-- Bootstrap -->
-  <div>
-    <a href="https://getbootstrap.com/">
-      <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-    </a>
-  </div>
+<span>
+  <a href="https://getbootstrap.com/">
+    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  </a>
+</span>
 
-  <!-- Tailwind CSS -->
-  <div>
-    <a href="https://tailwindcss.com/">
-      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-    </a>
-  </div>
+<span>
+  <a href="https://tailwindcss.com/">
+    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  </a>
+</span>
 
-  <!-- JavaScript -->
-  <div>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-    </a>
-  </div>
+<span>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  </a>
+</span>
 
-  <!-- React -->
-  <div>
-    <a href="https://reactjs.org/">
-      <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-    </a>
-  </div>
+<span>
+  <a href="https://reactjs.org/">
+    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  </a>
+</span>
 
-  <!-- Figma -->
-  <div>
-    <a href="https://www.figma.com/">
-      <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-    </a>
-  </div>
+<span>
+  <a href="https://www.figma.com/">
+    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  </a>
+</span>
 
 </div>
 
