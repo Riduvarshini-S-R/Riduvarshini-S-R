@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-# Hello, I'm [Your Name] 👋
+# Hello, I'm Riduvarshini S R 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Riduvarshini-S-R&color=green)
 [![GitHub followers](https://img.shields.io/github/followers/Riduvarshini-S-R?style=social)](https://github.com/Riduvarshini-S-R)
