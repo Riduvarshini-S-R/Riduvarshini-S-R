@@ -1,6 +1,4 @@
-### Hi there 👋
-
-# Hello, I'm Riduvarshini S R 👋
+# <p align=center> Hello, I'm Riduvarshini S R 👋</p>
 
 [![GitHub followers](https://img.shields.io/github/followers/Riduvarshini-S-R?style=social)](https://github.com/Riduvarshini-S-R)
 
