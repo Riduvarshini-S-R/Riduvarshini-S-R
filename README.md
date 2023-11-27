@@ -5,7 +5,7 @@
 <a href="https://www.hackerrank.com/riduvarshini_s_r"><img src="https://img.shields.io/badge/-HackerRank-00ea64?style=flat-square&amp;labelColor=081100&amp;logo=HackerRank&amp;link=https://www.hackerrank.com/riduvarshini_s_r" alt="HackerRank Profile"></a>
 </p>
 
-I'm a passionate towards coding and software development from Chennai. I love working on frontend development and exploring new technologies. Here are a few things I'm currently interested in:
+I'm a passionate towards coding and software development. I love working on frontend development and exploring new technologies. Here are a few things I'm currently interested in:
 
 - 🌱 I’m currently learning Full Stack Development and Cloud
 - 📫 How to reach me: riduvarshini.s.r@gmail.com
