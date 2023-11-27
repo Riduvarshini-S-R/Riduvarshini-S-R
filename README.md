@@ -7,7 +7,9 @@
 
 I'm a passionate towards coding and software development. I love working on frontend development and exploring new technologies. Here are a few things I'm currently interested in:
 
-- 🌱 I’m currently learning Full Stack Development and Cloud
+- 🌱 Full Stack Development 
+- 🌱 Cloud Technologies
+
 - 📫 How to reach me: riduvarshini.s.r@gmail.com
 
 ## 💻 Languages and Tools
