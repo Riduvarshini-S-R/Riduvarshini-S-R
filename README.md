@@ -3,6 +3,8 @@
 <p align = center>
 <a href="https://www.linkedin.com/in/riduvarshinisr/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/avinash-m-571642119/" alt="LinkedIn Badge"></a>
 <a href="https://www.hackerrank.com/riduvarshini_s_r"><img src="https://img.shields.io/badge/-HackerRank-00ea64?style=flat-square&amp;labelColor=081100&amp;logo=HackerRank&amp;link=https://www.hackerrank.com/riduvarshini_s_r" alt="HackerRank Profile"></a>
+<a href="https://leetcode.com/riduvarshinisr/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&labelColor=FFA116&logo=LeetCode&link=https://leetcode.com/riduvarshinisr/"></a>
+<a href="https://auth.geeksforgeeks.org/user/riduvarshinisr"><img src="https://img.shields.io/badge/-GeeksforGeeks-0F9D58?style=flat-square&labelColor=0F9D58&logo=GeeksforGeeks&link=https://auth.geeksforgeeks.org/user/riduvarshinisr"></a>
 </p>
 
 I'm a passionate towards coding and software development. I love working on frontend development and exploring new technologies. Here are a few things I'm currently interested in:
