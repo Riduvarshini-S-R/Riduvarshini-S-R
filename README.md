@@ -7,12 +7,20 @@
 <a href="https://auth.geeksforgeeks.org/user/riduvarshinisr"><img src="https://img.shields.io/badge/-GeeksforGeeks-0F9D58?style=flat-square&labelColor=0F9D58&logo=GeeksforGeeks&link=https://auth.geeksforgeeks.org/user/riduvarshinisr"></a>
 </p>
 
-I'm a passionate towards coding and software development. I love working on frontend development and exploring new technologies. Here are a few things I'm currently interested in:
+### <p align=center> Full Stack Development Enthusiast </p>
 
-- 🌱 Full Stack Development 
-- 🌱 Cloud Technologies
+---
+
+I'm a passionate towards coding and software development. I'm leaning towards becoming a full stack developer. 
+
+Here are a few things I'm currently interested in:
+
+- 🌱 Full Stack Development - MERN Stack
+- 🌱 Cloud Technologies - AWS
 
 - 📫 How to reach me: riduvarshini.s.r@gmail.com
+
+---
 
 ## 💻 Languages and Tools
 
@@ -81,9 +89,15 @@ Here are some of the languages and tools I've worked with:
 
 </div>
 
+---
 
 ## &#x1f4c8; My GitHub Stats
 
-[![Top Languages](https://github-readme-stats.vercel.app/api?username=Riduvarshini-S-R&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Riduvarshini-S-R&layout=compact&hide=jupyter%20notebook,JavaScript&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Riduvarshini-S-R&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Riduvarshini-S-R&theme=radical)](https://git.io/streak-stats)
+
 
 Feel free to reach out and connect with me. Let's collaborate on some cool projects together! 😃
